@@ -60,5 +60,70 @@
         "age": 20,
         "email": "cnorssister9@mayoclinic.com"
       }
+    ],
+
+
+    "Contries": [
+      {
+        "id": 1,
+        "name": "USD",
+        "rate": 1,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPn8DxZ2_2BZ1ZbQPO8nrwSD89FMJ9EIPl5w&usqp=CAU"
+      },
+      {
+        "id": 2,
+        "name": "AED",
+        "rate": 3.67,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxf8D1B_k81ZFuuE1YYAawPm_7cckXHaBXwEJrPUGYqlLNPuvcJWM5BGNd-efSc5P1Ov8&usqp=CAU"
+      },
+      {
+        "id": 3,
+        "name": "AFN",
+        "rate": 86.7,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsL2aYJBQyb5iNSTl31EB6FKpOHiLhUXaHSqNyCOTSk-k6UUcL9JnOaGWDmPTkDCwHRz0&usqp=CAU"
+      },
+      {
+        "id": 4,
+        "name": "EUR",
+        "rate": 0.905,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUi_2b0usvnMTLM4Tzu2I8iy1adlq8SFPgfg&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "name": "BTN",
+        "rate": 81.83,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuuCFZUHulLaGL-t1kEO1a-KQujGqVFX2kh5tyQnwZ_wAkdcUDEcDzfTz6ndcCS36Ggyo&usqp=CAU"
+      },
+      {
+        "id": 6,
+        "name": "EGP",
+        "rate": 30.8,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa_78N8ltGYpoGd3wKlAaLoI_pIcB6HFjjGRxCHAnxxqnOnupkZBS2xuOJ7WStugpCPjQ&usqp=CAU"
+      },
+      {
+        "id": 7,
+        "name": "INR",
+        "rate": 81.83,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY6DH5EznmcUuH5PkCr9ByQozj12k5WOaVs05ASBJnvJS4GUZ161nU3ViBxcMnL6NrCLs&usqp=CAU"
+      },
+      {
+        "id": 8,
+        "name": "NGN",
+        "rate": 462.05,
+        "image": "https://image.shutterstock.com/image-vector/vector-illustration-nigeria-flag-icon-260nw-371692030.jpg"
+      },
+      {
+        "id": 9,
+        "name": "PKR",
+        "rate": 283.35,
+        "image": "https://img.freepik.com/premium-vector/pakistan-flag-round-circle-vector-icon_601748-26419.jpg?w=2000"
+      },
+      {
+        "id": 10,
+        "name": "ZMW",
+        "rate": 17.82,
+        "image": "https://cdn-icons-png.flaticon.com/512/197/197621.png"
+      }
     ]
+
   }
