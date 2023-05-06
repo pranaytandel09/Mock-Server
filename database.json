@@ -124,6 +124,145 @@
         "rate": 17.82,
         "image": "https://cdn-icons-png.flaticon.com/512/197/197621.png"
       }
+    ],
+    "usersData": [
+      {
+        "id": 1,
+        "name": "Chandra",
+        "age": 29,
+        "place": "Visakhapatnam",
+        "batch_name": "WEB-15",
+        "profession": "FSD"
+      },
+      {
+        "id": 2,
+        "name": "Sachin",
+        "age": 35,
+        "place": "Patna",
+        "batch_name": "WEB-13",
+        "profession": "FSD"
+      }, 
+      {
+        "id": 3,
+        "name": "Ramesh",
+        "age": 23,
+        "place": "Keral",
+        "batch_name": "WEB-14",
+        "profession": "Backend"
+      }, 
+      {
+        "id": 4,
+        "name": "Virat",
+        "age": 32,
+        "place": "Gujrat",
+        "batch_name": "WEB-13",
+        "profession": "Frontend"
+      }, 
+      {
+        "id": 5,
+        "name": "Rohit",
+        "age": 22,
+        "place": "Bihar",
+        "batch_name": "WEB-16",
+        "profession": "Frontend"
+      }, 
+      {
+        "id": 6,
+        "name": "Jatin",
+        "age": 28,
+        "place": "Mumbai",
+        "batch_name": "WEB-15",
+        "profession": "Backend"
+      }, 
+      {
+        "id": 7,
+        "name": "Dhoni",
+        "age": 30,
+        "place": "Chennai",
+        "batch_name": "WEB-14",
+        "profession": "Backend"
+      },
+       {
+        "id": 8,
+        "name": "Kishan",
+        "age": 32,
+        "place": "Panjab",
+        "batch_name": "WEB-16",
+        "profession": "Frontend"
+      }, 
+      {
+        "id": 9,
+        "name": "Hardik",
+        "age": 32,
+        "place": "Vijayawada",
+        "batch_name": "WEB-13",
+        "profession": "Backend"
+      },
+       {
+        "id": 10,
+        "name": "Pollard",
+        "age": 32,
+        "place": "Vijayawada",
+        "batch_name": "WEB-14",
+        "profession": "Frontend"
+      }, 
+      {
+        "id": 11,
+        "name": "Tim",
+        "age": 32,
+        "place": "Vijayawada",
+        "batch_name": "WEB-14",
+        "profession": "FSD"
+      }, 
+      {
+        "id": 12,
+        "name": "Bevas",
+        "age": 32,
+        "place": "Vijayawada",
+        "batch_name": "WEB-14",
+        "profession": "Frontend"
+      },
+       {
+        "id": 13,
+        "name": "Convey",
+        "age": 32,
+        "place": "Vijayawada",
+        "batch_name": "WEB-13",
+        "profession": "FSD"
+      },
+      {
+        "id": 14,
+        "name": "Ruturaj",
+        "age": 32,
+        "place": "Vijayawada",
+        "batch_name": "WEB-14",
+        "profession": "Frontend"
+      },
+      {
+        "id": 15,
+        "name": "Dube",
+        "age": 32,
+        "place": "Vijayawada",
+        "batch_name": "WEB-14",
+        "profession": "Backend"
+      },
+      {
+        "id": 16,
+        "name": "Shikhar",
+        "age": 32,
+        "place": "Vijayawada",
+        "batch_name": "WEB-15",
+        "profession": "Frontend"
+      },
+       {
+        "id": 17,
+        "name": "Harshal",
+        "age": 32,
+        "place": "Vijayawada",
+        "batch_name": "WEB-13",
+        "profession": "Frontend"
+      }
+      
     ]
 
   }
